@@ -1,4 +1,4 @@
-# Security Policy for helm-image-updater
+# Security Policy for backstage-mass-file-editor
 
 If you discover a security vulnerability in this project, please follow these steps:
 
