@@ -58,11 +58,20 @@
   "devDependencies": {
     "@backstage/cli": "^0.33.0",
     "@backstage/test-utils": "^1.7.9",
+    "@commitlint/config-conventional": "^19.8.1",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^13.0.1",
+    "@semantic-release/exec": "^7.1.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.3",
+    "@semantic-release/release-notes-generator": "^14.0.3",
     "@testing-library/dom": "^9.0.0",
     "@testing-library/jest-dom": "^6.0.0",
     "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^14.0.0",
-    "@types/react": "*"
+    "@types/react": "*",
+    "husky": "^9.1.7",
+    "semantic-release": "^24.2.6"
   },
   "files": [
     "dist"
